@@ -9,10 +9,10 @@ A digital agency has a team of experts that specialize in modern digital marketi
 # Navigation
 https://digital-agency-ten.vercel.app/
 # what makes it special
-Understand our client's business goal first
-Belive in doing business with honesty
-Belive in doing business with trust
-Belive in doing business with dedication
-We deliver on time
-We create a winning content strategy
-We protect your online reputation
+* Understand our client's business goal first
+* Belive in doing business with honesty
+* Belive in doing business with trust
+* Belive in doing business with dedication
+* We deliver on time
+* We create a winning content strategy
+* We protect your online reputation
