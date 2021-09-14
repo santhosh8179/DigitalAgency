@@ -1,6 +1,6 @@
 # DigitalAgency
 Mini Project
-# Technology
+## Technology
 HTML,
 CSS,
 Bootstrap
